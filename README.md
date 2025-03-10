@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hola, mi nombre es Scarlett Espinoza 👋
+### Ingeniera Civil en Metalurgia de profesión, analista de datos y backend en python en formación.
+
+![https://github.com/IamScarlettE0](./Portada.jpg)
 
 <!--
 **IamScarlettE0/IamScarlettE0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
