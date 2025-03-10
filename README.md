@@ -1,4 +1,4 @@
-# Hola, mi nombre es Scarlett Espinoza 👋
+# Hola, soy Scarlett Espinoza 👋
 ### Ingeniera Civil en Metalurgia de profesión, analista de datos y backend en python en formación.
 
 ![https://github.com/IamScarlettE0](./Portada.jpg)
