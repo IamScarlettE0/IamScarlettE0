@@ -1,5 +1,5 @@
 # Hola, soy Scarlett Espinoza 👋
-### Ingeniera Civil en Metalurgia de profesión, analista de datos y backend en python en formación.
+### Ingeniera Civil en Metalurgia · Magíster en Ingeniería Industrial | Minería 4.0 · Automatización · IA en procesos · Sostenibilidad · Digitalización Industrial.
 
 ![https://github.com/IamScarlettE0](./Portada.jpg)
 
